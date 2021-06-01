@@ -1,0 +1,9 @@
+[submodule "image-classification"]
+	path = image-classification
+	url = https://github.com/luokn/image-classification
+[submodule "sentiment-classification"]
+	path = sentiment-classification
+	url = https://github.com/luokn/sentiment-classification
+[submodule "time-series-prediction"]
+	path = time-series-prediction
+	url = https://github.com/luokn/time-series-prediction
