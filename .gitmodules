@@ -10,3 +10,6 @@
 [submodule "semantic-segmentation"]
 	path = semantic-segmentation
 	url = https://github.com/luokn/semantic-segmentation
+[submodule "object-detection"]
+	path = object-detection
+	url = https://github.com/33499/object-detection
