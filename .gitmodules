@@ -7,3 +7,6 @@
 [submodule "time-series-prediction"]
 	path = time-series-prediction
 	url = https://github.com/luokn/time-series-prediction
+[submodule "semantic-segmentation"]
+	path = semantic-segmentation
+	url = https://github.com/luokn/semantic-segmentation
